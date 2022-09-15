@@ -1,0 +1,51 @@
+h1 {
+    color: red;
+}
+h2 {
+    color: #FFA500;
+}
+h3 {
+    color: #ff0;
+}
+h4 {
+    color: #00ff00ff;
+}
+h5 {
+    color: #00ff;
+}
+h6 {
+    color: rgb(75, 0, 130);
+}
+p {
+    color: rgba(85, 27, 140, 1);
+}
+h1 {
+    background-color: red;
+}
+h2 {
+    background-color: #FFA500;
+}
+h3 {
+    background-color: #ff0;
+}
+h4 {
+    background-color: #00ff00ff;
+}
+h5 {
+    background-color: #00ff;
+}
+h6 {
+    background-color: rgb(75, 0, 130);
+}
+p {
+    background-color: rgba(85, 27, 140, 1);
+}
+#First {
+    color: hotpink;
+}
+#Third {
+    color: peachpuff;
+}
+.Li {
+    border: 5px solid green;
+}
